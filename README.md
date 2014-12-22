@@ -35,31 +35,435 @@ This keyboarded and encoded edition of the
 ##Content Summary##
 
 #####Front#####
-Pleasant dialogues and dramma's, selected out of Lucian, Erasmus, Textor, Ovid, &c. With sundry embl
+
+1. To the Right Honourable Sir HENRY Lord CARY, Baron of Hunſdon, Viſcount Rochford, Earle of DOVER, &c.
+
+1. To the Generous Reader.
+
+1. To his worthie friend the Authour, Maſter Thomas Heywood.
+
+1. To the learned Authour Maſter THOMAS HEYWOOD.
+
+1. To my praiſe-worthy friend Maſter THOMAS HEYWOOD.
+
+1. The Table.
+
 #####Body#####
+The Argument of Eraſmus his Dialogue called NAIAGAION, or Naufragium.HEre you may reade an accurate 
+    _ The Argument of Eraſmus his Dialogue called NAIAGAION, or Naufragium.
 
-1. 1. To his Library having beene ſometime abſent thence.
+    _ The DIALOGUE.
+The Argument to Eraſmus his Dialogue, entituled PROCVS & PVELLA.ERASMVS in this ColloquieExpreſſeth 
+    _ The Argument to Eraſmus his Dialogue, entituled PROCVS & PVELLA.
 
-1. 2. Of Eraſmus, pictured but from the girdle
+    _ The DIALOGVE.
+The Argument of the Dialogue betwixt EARTH and AGE.IN EARTH and AGE is to the life expreſt,How bad a
+    _ The Argument of the Dialogue betwixt EARTH and AGE.
+
+    _ The DIALOGUE. 
+The Argument of the Dialogue intituled MISANTHROPOS, or the Man-Hater.This Dialogue of Riches doth e
+    _ The Argument of the Dialogue intituled MISANTHROPOS, or the Man-Hater.
+
+    _ The DIALOGVE. 
+The Argument of the Dialogue intituled IVPITER and GANIMEDE.IOves Maſculine love this Fable reprehen
+    _ The Argument of the Dialogue intituled IVPITER and GANIMEDE.
+
+    _ The DIALOGVE.
+
+1. IVPITER and IVNO.
+
+    _ The Argument of the Dialogue.
+
+    _ The DIALOGUE. 
+
+1. IVPITER and CVPID.
+
+    _ The Argument.
+
+    _ The DIALOGVE. 
+
+1. VULCAN and APOLLO
+
+    _ The Argument.
+
+    _ The DIALOGVE.
+
+1. MERCVRY and APOLLO.
+
+    _ The Argument.
+
+    _ The DIALOGVE.
+
+1. MERCVRY and MAIA.
+
+    _ The Argument.
+
+    _ The DIALOGVE. 
+
+1. VULCAN and IUPITER.
+
+    _ The Argument.
+
+    _ The DIALOGVE.
+
+1. NEPTVNE and MERCVRY.
+
+    _ The Argument.
+
+    _ The DIALOGVE.
+
+1. DIOGENES and MAUSOLUS.
+
+    _ The Argument.
+
+    _ The DIALOGUE.
+
+1. CRATES and DIOGENES
+
+    _ The Argument.
+
+    _ The DIALOGVE. 
+
+1. CHARON, MENIPPVS, MERCVRY
+
+    _ The Argument.
+
+    _ The DIALOGVE.
+
+1. MENIPPVS, AEACVS, PYTHAGORAS, EMPEDOCLES, and SOCRATES.
+
+    _ The Argument.
+
+    _ The DIALOGVE. 
+
+1. NEREVS, THERSITES, MENIPPVS.
+
+    _ The Argument.
+
+    _ The DIALOGVE. 
+
+1. IVPITER, MERCVRY, IVNO, PALLAS, VENVS, and PARIS.
+
+    _ The Argument of the Dialogue, entituled Deorum Iudicium.
+
+    _ The DIALOGVE.
+
+1. IVPITER and IO.
+
+    _ The Argument.
+Enter 16, Daphne, with other Nymphs called Naiades, the Daughters of the Rivers neere adjacent.Io.HE
+1. APOLLO and DAPHNE.
+
+    _ The Argument.
+Enter the riuer Peneus the father of Daphne, Daphne, Amphriſus and Apidanus two Riuers that were SuiThe Argument of AMPHRISA the forſaken Shepheardeſſe.THe innocence, truth, and ſimplicitieOf countrey
+    _ The Argument of AMPHRISA the forſaken Shepheardeſſe.
+Enter two Shepheardeſſes, Pelopoea and Alope.Pel.GOod morrow.Alop.So to you, faire Shepheardeſſe.Iel
+1. An Emblematicall Dialogue, interpreted from the Excellent and moſt learned D. Iac. Catzius; which ſheweth how Virgins in their chaſte loves ought to beare themſelves.
+
+    _ 1. The Argument.
+
+    _ 2. The Argument.
+
+    _ Without Marriage there is no courage.
+
+    _ Moſt things unprov'd cannot content us,Which being tryde they oft repent us.
+
+    _ The family of the unmarried is lame.
+
+    _ Binde in thy flames.
+
+    _ By the finger, not the tongue.
+
+    _ The Colony is to bee removed elſewhere.
+
+    _ After the wound, in vaine is warning.
+
+    _ The more haſte, the worſe ſpeed.
+
+    _ For what wee can, wee care not
+
+    _ Preſſe occaſion.
+
+    _ The honour of virginity periſheth in the laſting
+
+    _ No prize if not provok't.
+
+    _ It lights, but leads not.
+
+    _ No play without ſome pray.
+
+    _ Try ere you truſt.
+
+    _ Too much light dimmes the ſight.
+
+    _ Cheekes oft painted, are ſoone tainted.
+
+    _ Fire from Froſt.
+
+    _ The light to keepe,ſnuffe not too deepe.
+
+    _ Paſſions too high, will ſpeaking lie.
+
+    _ Lovers ſtray, where there's no way.
+
+    _ They care nor feare, For what they ſweare.
+
+    _ Touch it with ſalt,it turnes to nothing.
+
+    _ There's much danger, to truſt a ſtranger.
+
+    _ Sometimes faire words, wound worſe than ſwords.
+
+    _ Spare for no cost, where nothing's loſt
+
+    _ Once ſham'd, ever blam'd.
+
+    _ His ſlave ſhee lives, to whom ſhe gives.
+
+    _ All things by Gold,are bought and ſold.
+
+    _ Truſt none in the giving vaine;Lovers give not but to gaine.
+
+    _ Often by too much play,Virgins themſelves betray.
+
+    _ Moſt hold ſuch bad, as love to gad.
+
+    _ There's danger, ſtrictly to confineEither young wenches, or new wine.
+
+    _ There can bee given no ſtrong ſecurity,For Maiden heads in their nativity.
+
+    _ To free thy ſelfe from danger cleane,Shun the extremes, and keepe the meane.
+
+    _ Merry Suiters, make mad Husbands.
+
+    _ Sorrow treads, where folly leads.
+
+    _ Where vertue tyes, love never dyes.
+
+    _ Children in law, breed may a flaw.
+
+    _ To have thy will, be humble ſtill.
+
+    _ 1.
+
+    _ 2.
+
+    _ 3.
+
+    _ The Epilogue.
+
+1. Sundry Fancies writ upon ſeverall occaſions. By the ſame Author.
+
+    _ A ſpeech ſpoken to their two excellent Majeſties, at the firſt Play play'd by the Queenes Servants, in the new Theater at White Hall.
+
+    _ To the King and Queene upon a New-yeares day at night: to Two-fac't Ianus with a great golden Key in his hand, the Preſenter.
+
+    _ The Epilogue ſpoken by the ſame Ianus.
+
+    _ A Prologue ſpoke before the King, when her Majeſty was great with child.
+
+    _ The Epilogue.
+
+    _ Another ſpoken at White Hall before their ſacred Majeſties.
+
+    _ The Epilogue.
+
+    _ A Prologue ſpoken to their ſacred Majeſties at Hampton Court.
+
+    _ The Epilogue.
+
+    _ Spoken to their two Majeſties at Hampton Court. Prologue.
+
+    _ Epilogue.
+
+    _ Spoken to their two Majeſties at White Hall. Prologue.
+
+    _ The Epilogue.
+
+    _ Spoken to their excellent Majeſties upon the like occaſion. Prologue.
+
+    _ The Epilogue.
+
+    _ Spoken to the King and Queene, at the ſecond time of the Authors Play cald Cupids Miſtreſſe or Cupid and Pſiche, preſented before them. Cupid, the Prologue.
+
+    _ The ſpeech ſpoken to their two Majeſties, eight dayes before, being the Kings birth-day: preſented at Somerſet houſe, by the Queenes appointment, ſhe then feaſting the King. Cupid, the Prologue.
+
+    _ The Maske concluding with a ſtately meaſure, of the Gods and Planets, Cupid (they all ſtanding about him bending) the Epilogue thus concludes.
+
+    _ Spoken to his Majeſty upon a New yeares day at night. The Prologue.
+
+    _ Another ſpoken at the Court to the like purpoſe. Prologue.
+
+    _ Epilogue.
+
+    _ A Prologue ſpoken at the right Honourable the Earle of Dover houſe in Broadſtreet, at a Play in a moſt bountifull Chriſtmas hee kept there; the Speaker Hoſpitality a frollick old fellow: A Coller of Brawne in one hand, and a deepe Bowle of Muſcadel in the other.
+
+    _ It is to be obſerved that the Earle in Heraldry gives the Swan, and the Counteſſe the Cocke, &c. The Epilogue preſented by delight.
+
+    _ Spoken to the right Honourable the Earle of Dover, at his houſe in Broadſtreet upon a Candlemas night. The Prologue.
+
+    _ Epilogue.
+
+    _ A ſpeech ſpoken before the right Honourable the Earle of Dover, at his Houſe at Hunſden, as a preparation to a Maske, which conſiſted of nine Ladyes. Preſented the last New-yeares night.
+
+    _ Truth preſenting the Maskers.
+
+    _ A young witty Lad playing the part of Richard the third: at the Red Bull: the Author becauſe hee was intereſſed in the Play to incourage him, wrot him this Prologue and Epilogue. The Boy the Speaker.
+
+    _ The Epilogue.
+
+    _ A Prologue to the Play of Queene Elizabeth as it was laſt revived at the Cock-pit, in which the Author taxeth the moſt corrupted copynow imprinted, which was publiſhed without his conſent. I rologue.
+
+    _ Epilogue.
+
+    _ Vpon his Majeſties laſt birth-night, he being then thirty five yeares of age, and the Queene great with child.
+
+    _ Epilogue.
+
+    _ Spoken to the Palſgrave at his firſt comming over, in the preſence of his Majeſty, &c.
+
+    _ Epilogus.
+
+1. Funerall ELEGIES and EPITAPHS.
+
+    _ A Funerall Elegie upon the death of the thrice noble Gentleman Sir George Saint Poole of Lincolne-ſhire my Country-man.
+
+    _ A Funerall Elegie upon a vertuous Maide, who dyed the very day on which ſhee ſhould have beene married.
+
+    _ An Epitaph upon the death of Sir Philip Woodhouſe Knight Baronet.
+
+    _ 〈◊〉 Epitaph upon one Mr. Robert Honywood and his Mother, and of their numerous Iſſue.
+
+    _ Sacrum Amoris. Perpetuitati memoriae Katharinae Skip: obijt Anno ſalutis mille ſimo Sexcenteſimo Triceſimo. A•tatis ſuae, Viceſimo nono.
+
+    _ Of Mr. Thomas Skipp her husband ſince deceaſed, and buried in the ſame Tombe, whoſe Statue is plac't in a circle of Bookes, for the great love he bore to learning.
+
+    _ An Epitaph upon a worthy Gentlewoman whoſe name was Patience.
+
+    _ An Epitaph upon a vertuous young Gentlewoman, who after ſeven yeares marriage expired.
+
+    _ Vpon a Toomb-ſtone which covereth the body of a worthy Citizen, on which is ingraven a white hand pointing to a Starre.
+
+    _ Funerall Elegie upon the death of Miſtris Mary Littleboyes, Daughter to Maſter George Littleboyes of Aſhburnham in Suſſex, Eſquire.
+
+    _ The Inſcription upon her Tombe-ſtone lying in Clerkenwell Church.
+
+1. Epithalamions or Nuptiall Songs.
+
+    _ An Epithalamion or Nuptiall Song upon a you ſweet vertuous Gentlewoman. F. L.
+
+    _ Himens bleſſing upon the ſame.
+
+    _ To a vertuous Gentlewoman at the parting from her own Fathers houſe, to live with her husband at her Father-in-lawes.
+
+    _ A nuptiall ſong, devoted to the Celebration of a Marriage betwixt Maſter Iames, and Miſtreſſe An. W. An Acroſtick.
+
+    _ A Song at their upriſing.
+
+    _ • Anagram upon the name of the right honourable Sir Thomas Coventry, Lord Keeper of the great Seale, &c.
+
+    _ Another of the ſame.
+
+    _ Of the right Honourable Sir Henry Carey, Lord Hunſden, Earle of Dover, &c.
+
+    _ Of Sir Ranoulphe Crewe, once Lord Chiefe Iuſtice of England.
+
+    _ Of the moſt excellent Lady, the Lady Anna Carre, ſole daughter to the right Honourable Robert Earle of Somerſet, Knight of the Garter, &c,
+
+    _ Of that worthy and moſt religious Knight, Sir Paul Pindar. His Anagram.
+
+1. EPIGRAMS.
+
+    _ Epig. ex THEOD. BEZA.
+
+      * 1. To his Library having beene ſometime abſent thence.
+
+      * 2. Of Eraſmus, pictured but from the girdle
 upwards.
 
-1. 3. Of Lucrece.
+      * 3. Of Lucrece.
 
-1. 4. Vpon the Venetian Hiſtory written by Petrus Bembus.
+      * 4. Vpon the Venetian Hiſtory written by Petrus Bembus.
 
-1. 5. Of Helionora the French Queene.
+      * 5. Of Helionora the French Queene.
 
-1. 6. Of Iohannes Secundus an excellent Poet of the Hage in Holland.
+      * 6. Of Iohannes Secundus an excellent Poet of the Hage in Holland.
 
-1. 7. Againſt Philenus who carpt at Eraſmus.
+      * 7. Againſt Philenus who carpt at Eraſmus.
 
-1. 8. To Lodovick Maſurus of his verſes made of the fall of Babylon.
+      * 8. To Lodovick Maſurus of his verſes made of the fall of Babylon.
 
-1. 9. Vpon three the moſt excellent Divines of France then living.
+      * 9. Vpon three the moſt excellent Divines of France then living.
 
-1. 10. A compariſon betwixt Poets and Monkes.
+      * 10. A compariſon betwixt Poets and Monkes.
+
+    _ The excellent Poet George Buchanan, upon a Diamond cut like an Hart, and ſent from Mary Queene of Scots, to the moſt excellent Lady Queene Elizabeth.
+
+    _ Of Chriſalus.
+
+    _ In Romum.
+
+    _ An Epitaph upon Iacobus Sylvius.
+
+    _ Ex Angelo Politiano. Epigram In Pamphilum.
+
+    _ Againſt Mabilius a bitter rayling Poet.
+
+    _ Ex Accij ſinceri ſannazarij Neopolitani viri patricij. Epigram. Of the admirable City Venice.
+
+    _ Ex M. Anthonij Fla•••inij. Epigram. Of Cardinall Pooles Picture.
+
+    _ Of a faire gilt Bowle ſent unto him from Benedict Accoltus Cardinall.
+
+    _ Ex Mario Molſa. Of the City Rome being late waſted by the Germanes.
+
+    _ Ex Antonio Titaldeo. An Epitath upon Joannes Mirandula.
+
+    _ Ex Benedicti Theocreni. Epigram. Upon a Comet which Lewes of Savoy ſaw a little before his death.
+
+    _ Ex Joanne ſecundo Hagienſi. Of one Charinus who had married a deformed wife.
+
+    _ Ex Henrici Stephani Epigram. Of Phillis who was delivered within five moneths after her marriage.
+
+    _ Upon Pompe's death.
+
+    _ Ex Ioanne Colta. Of the City Verona.
+
+    _ Ex Petro Bo•bo. An Epitaph upon one Thebaldaeus an excellent Muſitian.
+
+    _ Ex Baltaſſer Caſtlli•ne. An Epitaph upon a Virgin whoſe name was Gratia.
+
+    _ Ex Antonio Caſanova. Of Lucrece.
+
+1. In praiſe of Archery.
+
+1. Upon a Booke late publiſhed by one Bird a Coachman, calld Byrds buſineſſe.
+
+1. Againſt a baſe and infamous Balladder, who disperſt a ſcandalous riming Libell, in which hee malitiouſly traduced the noble exerciſes weekely practiſed in the Artillery Garden.
 
 #####Back#####
+The ANNOTATIONS upon PROCUS and PUELLA.IN this Dialogue (to whoſe Author I am not able to give a mer
+    _ The ANNOTATIONS upon PROCUS and PUELLA.
+
+    _ Annotations upon the Dialogue of EARTH and AGE.
+
+    _ Illuſtrations upon Timon Miſanthropos.
+
+    _ Annotations upon Nireus, Therſites, &c.
+
+    _ Annotations upon Iupiter and Io.
+
+    _ Annotations upon the Dialogue
+
+    _ Vpon Mercury and Maia.
+
+    _ Vpon Crates and Diogenes.
+
+    _ Vpon Menippus, Aeacus, Pythagoras.
+
+    _ What other difficulties you ſhall finde in theſe ſhort Dialogues, you ſhall find in ſome or other fully explicated.
+
+1. I conclude this Worke, ſuiting with the preſent, concerning the worth of Phyſick, and Phyſitians, deriving my preſident from a worthy Gentleman called M. Periſaulus Fauſtinus.
 
 **Types of content**
 
